@@ -3,6 +3,7 @@
 ### Overview
 An alarm burglar system is a security device designed to detect unauthorized entry into a property and alert the owner or security personnel. Using Arduino, such systems can be easily developed, combining sensors, actuators, and communication modules for effective intrusion detection and alert mechanisms
 
+We have used CPP programming language to detect motion using ultrasonic sensor  and respond by turning on a red LED, activating a buzzer, and making a phone call using a GSM module connected via SoftwareSerial.
 ### Steps for setting up the alarm system
 To connect an Arduino to a laptop, you typically follow these steps:
 
@@ -17,3 +18,6 @@ To connect an Arduino to a laptop, you typically follow these steps:
 5. *Upload a Sketch (Code)*: Now that your Arduino is connected and the correct board and port are selected, you can upload a sketch (code) to your Arduino. You can either write your own code or use one of the many example sketches available in the Arduino IDE. Once you have your code ready, click the "Upload" button (the right arrow icon) in the Arduino IDE. The IDE will compile your code and upload it to the Arduino board.
 
 6. *Monitor Serial Output (Optional)*: If your Arduino sketch includes serial communication, you can monitor the output using the Serial Monitor feature in the Arduino IDE. Go to the "Tools" menu, select "Serial Monitor," and a window will open where you can view the data being sent and received by your Arduino.
+
+
+Please feel free to update or make any changes in code and you deploy the project according to yuor requirements 
