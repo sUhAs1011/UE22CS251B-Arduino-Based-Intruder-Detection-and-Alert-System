@@ -1,5 +1,9 @@
 # ALARM-BURGLAR-SYSTEM
 
+### Overview
+An alarm burglar system is a security device designed to detect unauthorized entry into a property and alert the owner or security personnel. Using Arduino, such systems can be easily developed, combining sensors, actuators, and communication modules for effective intrusion detection and alert mechanisms
+
+### Steps for setting up the alarm system
 To connect an Arduino to a laptop, you typically follow these steps:
 
 1. *Install Arduino IDE (Integrated Development Environment)*: If you haven't already, download and install the Arduino IDE from the official Arduino website. This software allows you to write, compile, and upload code to your Arduino board.
