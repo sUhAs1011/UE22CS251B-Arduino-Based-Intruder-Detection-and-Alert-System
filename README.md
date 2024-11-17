@@ -22,4 +22,6 @@ To connect an Arduino to a laptop, you typically follow these steps:
 
 Please feel free to update or make any changes in code and you can deploy the project according to yuor requirements and the arduino components you have and please ensure that when you are deploying the code in CPP programming language ensure that you use the module "#include <SoftwareSerial.h>" which allows you to use communication ports on Arduino boards that have only one hardware serial port like arduino uno
 
+Before deploying the code ensure that you have downloaded and installed arduino ide on your computer as the module "#include <SoftwareSerial.h>" can't be run without it  
+
 
