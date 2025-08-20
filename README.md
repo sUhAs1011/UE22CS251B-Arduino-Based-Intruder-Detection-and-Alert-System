@@ -25,6 +25,8 @@ Please feel free to update or make any changes in code and you can deploy the pr
 
 Before deploying the code ensure that you have downloaded and installed arduino ide on your computer as the module "#include <SoftwareSerial.h>" can't be run without it  
 
+![WhatsApp Image 2025-04-13 at 14 41 58_c986fd5a](https://github.com/user-attachments/assets/faccf00f-b35d-40fa-8fc8-02cb08f79b4e)
+
 ### Team Members:  
 - Sumukh GS (PES2UG22CS596)  
 - Suhas Venkata Karamalaputti (PES2UG22CS590)  
