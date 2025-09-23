@@ -27,12 +27,12 @@ Before deploying the code ensure that you have downloaded and installed arduino 
 
 ![WhatsApp Image 2025-04-13 at 14 41 58_c986fd5a](https://github.com/user-attachments/assets/faccf00f-b35d-40fa-8fc8-02cb08f79b4e)
 
-![image](https://github.com/user-attachments/assets/dcdf40c5-7555-42fd-929e-a0a8ba7b8941)
+![arduino](https://github.com/user-attachments/assets/21d6aea7-24b9-4878-9685-4591229827c5)
 
 ### Team Members:  
-- Sumukh GS (PES2UG22CS596)  
+- Soham Pravin Salunke (PES2UG22CS565)
 - Suhas Venkata Karamalaputti (PES2UG22CS590)  
-- Soham Praveen Salunke (PES2UG22CS565)
+- Sumukh GS (PES2UG22CS597)  
 
 
 
