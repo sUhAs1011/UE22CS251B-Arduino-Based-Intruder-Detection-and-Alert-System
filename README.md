@@ -1,7 +1,7 @@
-# IoT Based Intruder Detection and Alert System 
+# IoT-Enabled Arduino-Based Intruder Detection and Alert System
 
 ### Overview
-An alarm burglar system is a security device designed to detect unauthorized entry into a property and alert the owner or security personnel. Using Arduino, such systems can be easily developed, combining sensors, actuators, and communication modules for effective intrusion detection and alert mechanisms
+An Arduino-Based Intruder Detection and Alert System is a security device designed to detect unauthorized entry into a property and alert the owner or security personnel. Using Arduino, such systems can be easily developed, combining sensors, actuators, and communication modules for effective intrusion detection and alert mechanisms
 
 We have used CPP programming language to detect motion using ultrasonic sensor  and respond by turning on a red LED, activating a buzzer, and making a phone call using a GSM module connected via SoftwareSerial.
 ### Steps for setting up the alarm system
